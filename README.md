@@ -1,4 +1,4 @@
-# DSC_M3_DA-BI
+# Nuclio Digital School - Master en Data Science
  Módulo 3 - Data Analytics y Business Intelligence
  
  En este módulo nos hemos introducido en los temas de:
